@@ -1,0 +1,97 @@
+@media (max-width: 768px){
+
+    .header{
+        height: 10vh;
+    }
+    .logo a{
+        font-size: 1em;
+        padding: 7px;   
+     }
+
+     .search_bar i{
+         font-size: .7em;
+     }
+     .search_bar{
+         padding: 0;
+         height: 27px;
+    }
+    .search_bar input{
+         font-size: .8em;
+         padding: 0;
+         
+     }
+     .icon_wrapper i {
+        font-size: 1.1rem;
+      }
+    
+    .single_slider .content_side_wrapper{
+        padding: 20px;
+        padding-top: 50px;
+        width: 100%;
+        height: 45%;
+
+    }
+
+    .single_slider{
+        height: auto;
+    }
+    .single_slider .content_side_wrapper h4{
+        font-size: 2.9rem;
+    }
+
+    .single_slider .content_side_wrapper p{
+        margin-top: 20px;
+        font-size: 1.1rem;
+    }
+    .corner_div{
+        width: 100%;
+        height: 12%;
+        left: 0;
+        top: calc(60% - 11%);
+        border-radius: unset;
+        border-top-left-radius: 100%;
+        border-top-right-radius: 100%;
+    }
+
+    .single_slider .image_side{
+        width: 100%;
+        height: 60%;
+    }
+
+    .more_from_jio .slider_wrapper .single_slider{
+        height: auto;
+    }
+
+    .more_from_jio .corner_div{
+        left: 0;
+        top: 57% ;
+    }
+    .more_from_jio .single_slider{
+        height: 32rem;
+    }
+
+    .more_from_jio .single_slider .image_side{
+        height: 24rem;
+    }
+    .more_from_jio .single_slider .image_side img{
+        height: 100%;
+    }
+    .more_from_jio .single_slider .content_side_wrapper{
+        height: 11rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
